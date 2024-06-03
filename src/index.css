@@ -1,0 +1,8 @@
+body {
+  position: relative;
+  margin: 0;
+  font-family: "poppins", "roboto", "roboto-condensed", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(245, 247, 249);
+}

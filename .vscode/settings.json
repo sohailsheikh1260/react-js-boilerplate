@@ -1,0 +1,39 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  },
+
+  "cSpell.words": [
+    "Aagree",
+    "antd",
+    "APPT",
+    "atleast",
+    "autoselecting",
+    "Autosize",
+    "Contactaholic",
+    "contactaholiclogo",
+    "Contex",
+    "Dialable",
+    "Dialpad",
+    "ecall",
+    "endregion",
+    "formik",
+    "Imagespath",
+    "plusplus",
+    "powerdialer",
+    "qoute",
+    "remimage",
+    "Unhold",
+    "webp",
+    "Wrapup"
+  ],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
